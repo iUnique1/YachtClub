@@ -3,7 +3,11 @@
         <element attributes="encode_utf8=false" label="Member" max_length="32" name="member" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Rent Date" max_length="40" name="rent_date" type="glide_date"/>
+        <element label="Yacht" max_length="32" name="yacht" reference="x_295413_yachtclub_yacht" type="reference"/>
         <index name="index">
+            <element name="yacht"/>
+        </index>
+        <index name="index2">
             <element name="member"/>
         </index>
     </element>
