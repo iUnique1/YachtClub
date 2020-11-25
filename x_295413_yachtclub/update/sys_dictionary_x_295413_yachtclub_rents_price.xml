@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-11-25 14:54:27</sys_created_on>
-        <sys_id>e481c9840778a010b26bf2508c1ed0c1</sys_id>
+        <sys_id>1ef5950807b8a010b26bf2508c1ed0ea</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Price</sys_name>
         <sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope>
         <sys_update_name>sys_dictionary_x_295413_yachtclub_rents_price</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-11-25 14:54:27</sys_updated_on>
+        <sys_updated_on>2020-11-25 16:23:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
