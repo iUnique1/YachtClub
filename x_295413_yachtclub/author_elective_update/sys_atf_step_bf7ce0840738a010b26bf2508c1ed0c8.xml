@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>false</active>
+        <copied_from/>
+        <description>Open a new 'Rents' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>6</order>
+        <snapshot/>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:22:46</sys_created_on>
+        <sys_id>bf7ce0840738a010b26bf2508c1ed0c8</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope>
+        <sys_update_name>sys_atf_step_bf7ce0840738a010b26bf2508c1ed0c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:43:54</sys_updated_on>
+        <table>x_295413_yachtclub_rents</table>
+        <test display_value="Yacht Club basic">54bbec440738a010b26bf2508c1ed0bc</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=bf7ce0840738a010b26bf2508c1ed0c8"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>bf7ce0840738a010b26bf2508c1ed0c8</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:22:46</sys_created_on>
+        <sys_id>9f9ca0440738a010b26bf2508c1ed094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:22:46</sys_updated_on>
+        <value>x_295413_yachtclub_rents</value>
+        <variable display_value="">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>bf7ce0840738a010b26bf2508c1ed0c8</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:22:46</sys_created_on>
+        <sys_id>d79ca0440738a010b26bf2508c1ed094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:22:46</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">6f2a59a4e7133300b5646ea8c2f6a975</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>bf7ce0840738a010b26bf2508c1ed0c8</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:22:46</sys_created_on>
+        <sys_id>db9ca0440738a010b26bf2508c1ed094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:22:46</sys_updated_on>
+        <value/>
+        <variable display_value="">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</application>
+        <file_path/>
+        <instance_id>2d666868dbcf88540ae3ac44d4961955</instance_id>
+        <instance_name>dev100890</instance_name>
+        <name>sys_atf_step_bf7ce0840738a010b26bf2508c1ed0c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>false</active><copied_from/><description>Open a new 'Rents' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>6</order><snapshot/><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:22:46</sys_created_on><sys_id>bf7ce0840738a010b26bf2508c1ed0c8</sys_id><sys_mod_count>18</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package><sys_policy/><sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope><sys_update_name>sys_atf_step_bf7ce0840738a010b26bf2508c1ed0c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:43:54</sys_updated_on><table>x_295413_yachtclub_rents</table><test display_value="Yacht Club basic">54bbec440738a010b26bf2508c1ed0bc</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=bf7ce0840738a010b26bf2508c1ed0c8"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bf7ce0840738a010b26bf2508c1ed0c8</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:22:46</sys_created_on><sys_id>9f9ca0440738a010b26bf2508c1ed094</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:22:46</sys_updated_on><value>x_295413_yachtclub_rents</value><variable display_value="">bb84ed825320220002c6435723dc3400</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bf7ce0840738a010b26bf2508c1ed0c8</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:22:46</sys_created_on><sys_id>d79ca0440738a010b26bf2508c1ed094</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:22:46</sys_updated_on><value>standard_ui</value><variable display_value="">6f2a59a4e7133300b5646ea8c2f6a975</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>bf7ce0840738a010b26bf2508c1ed0c8</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:22:46</sys_created_on><sys_id>db9ca0440738a010b26bf2508c1ed094</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:22:46</sys_updated_on><value/><variable display_value="">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-805809395</payload_hash>
+        <record_name>Open a New Form</record_name>
+        <reverted_from/>
+        <source>6229c8cc07b4a010b26bf2508c1ed002</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:43:54</sys_created_on>
+        <sys_id>387138480738a010b26bf2508c1ed0c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175ffa571e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:43:54</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>707138487f38a010cf1751f5f03f38c5</update_guid>
+        <update_guid_history>707138487f38a010cf1751f5f03f38c5:-805809395,7461b8485438a0108aa79277fd5f4f51:1096448038,224178483238a010d05a4bed2f5f5253:1805195109,1501b4481738a010cf25f1717235176e:-1781025116,49a0b0482738a0106d1f4a5b3a037537:-1072278045,ffdfa8080038a01097311eb43f7a1ec1:-1781025116,682fa008be38a0101d4ac7a87ddff5a3:-1072278045,621fa0089838a01031666a3c1b6a4cb3:-1781025116,b81fa008db38a010041399a2c261bf8c:-1072278045,1b9ca044f438a0108c6383790680db96:1115885773</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 14:00:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>0380900d197f4550b465605eda52e040</sys_id>
+        <sys_metadata>bf7ce0840738a010b26bf2508c1ed0c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope>
+        <sys_scope_delete display_value="">30da5e27c993460f93ff8ac00b66dfa1</sys_scope_delete>
+        <sys_update_name>sys_atf_step_bf7ce0840738a010b26bf2508c1ed0c8</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_bf7ce0840738a010b26bf2508c1ed0c8">387138480738a010b26bf2508c1ed0c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 14:00:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

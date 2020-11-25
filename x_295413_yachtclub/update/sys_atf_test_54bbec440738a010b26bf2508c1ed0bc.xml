@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>&#13;
+A admin should be able to create and update  a yacht&#13;
+&#13;
+</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Yacht Club Admin</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:18:53</sys_created_on>
+        <sys_id>54bbec440738a010b26bf2508c1ed0bc</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Yacht Club Admin</sys_name>
+        <sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope>
+        <sys_update_name>sys_atf_test_54bbec440738a010b26bf2508c1ed0bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 14:00:07</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=54bbec440738a010b26bf2508c1ed0bc"/>
+</record_update>

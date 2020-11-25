@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Update a record in 'x_295413_yachtclub_yacht' with the following values:
+Model = new model
+and Identifier = new id
+Confirm the record was successfully updated</description>
+        <display_name>Record Update</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Record Update">17a72288df60220062fe6c7a4df26397</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>2d8fe4080738a010b26bf2508c1ed04e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Record Update</sys_name>
+        <sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope>
+        <sys_update_name>sys_atf_step_2d8fe4080738a010b26bf2508c1ed04e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:37:00</sys_updated_on>
+        <table>x_295413_yachtclub_yacht</table>
+        <test display_value="Yacht Club basic">54bbec440738a010b26bf2508c1ed0bc</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=2d8fe4080738a010b26bf2508c1ed04e"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>26cf60080738a010b26bf2508c1ed009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:36:38</sys_updated_on>
+        <value>x_295413_yachtclub_yacht</value>
+        <variable display_value="">53fb0f535320220002c6435723dc34ec</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>62cf60080738a010b26bf2508c1ed009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:36:38</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">46dbcb535320220002c6435723dc3409</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>62cf68080738a010b26bf2508c1ed0e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:36:38</sys_updated_on>
+        <value>model=new model^identifier=new id^EQ</value>
+        <variable display_value="">bc4c43935320220002c6435723dc34a2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>aacf60080738a010b26bf2508c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:36:38</sys_updated_on>
+        <value>record_successfully_updated</value>
+        <variable display_value="">334b7bb7675003007ba405225685ef72</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>aecf60080738a010b26bf2508c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:36:38</sys_updated_on>
+        <value/>
+        <variable display_value="">501c8f535320220002c6435723dc34da</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=2d8fe4080738a010b26bf2508c1ed04e"/>
+    <sys_element_mapping action="DELETE">
+        <field>field_values</field>
+        <id>2d8fe4080738a010b26bf2508c1ed04e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>2acf60080738a010b26bf2508c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:36:38</sys_updated_on>
+        <table>var__m_atf_input_variable_17a72288df60220062fe6c7a4df26397</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="DELETE">
+        <field>record_id</field>
+        <id>2d8fe4080738a010b26bf2508c1ed04e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:36:38</sys_created_on>
+        <sys_id>66cf60080738a010b26bf2508c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:36:38</sys_updated_on>
+        <table>var__m_atf_input_variable_17a72288df60220062fe6c7a4df26397</table>
+        <value>{{step['ab0d2c840738a010b26bf2508c1ed026'].record_id}}</value>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</application>
+        <file_path/>
+        <instance_id>2d666868dbcf88540ae3ac44d4961955</instance_id>
+        <instance_name>dev100890</instance_name>
+        <name>sys_atf_step_2d8fe4080738a010b26bf2508c1ed04e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Update a record in 'x_295413_yachtclub_yacht' with the following values:
+Model = new model
+and Identifier = new id
+Confirm the record was successfully updated</description><display_name>Record Update</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Record Update">17a72288df60220062fe6c7a4df26397</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>2d8fe4080738a010b26bf2508c1ed04e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Record Update</sys_name><sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package><sys_policy/><sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope><sys_update_name>sys_atf_step_2d8fe4080738a010b26bf2508c1ed04e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:37:00</sys_updated_on><table>x_295413_yachtclub_yacht</table><test display_value="Yacht Club basic">54bbec440738a010b26bf2508c1ed0bc</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=2d8fe4080738a010b26bf2508c1ed04e"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>26cf60080738a010b26bf2508c1ed009</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:36:38</sys_updated_on><value>x_295413_yachtclub_yacht</value><variable display_value="">53fb0f535320220002c6435723dc34ec</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>62cf60080738a010b26bf2508c1ed009</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:36:38</sys_updated_on><value>1</value><variable display_value="">46dbcb535320220002c6435723dc3409</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key><order>400</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>62cf68080738a010b26bf2508c1ed0e1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:36:38</sys_updated_on><value>model=new model^identifier=new id^EQ</value><variable display_value="">bc4c43935320220002c6435723dc34a2</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>aacf60080738a010b26bf2508c1ed008</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:36:38</sys_updated_on><value>record_successfully_updated</value><variable display_value="">334b7bb7675003007ba405225685ef72</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>2d8fe4080738a010b26bf2508c1ed04e</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>aecf60080738a010b26bf2508c1ed008</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:36:38</sys_updated_on><value/><variable display_value="">501c8f535320220002c6435723dc34da</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=2d8fe4080738a010b26bf2508c1ed04e"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>field_values</field><id>2d8fe4080738a010b26bf2508c1ed04e</id><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>2acf60080738a010b26bf2508c1ed008</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:36:38</sys_updated_on><table>var__m_atf_input_variable_17a72288df60220062fe6c7a4df26397</table><value/></sys_element_mapping><sys_element_mapping action="INSERT_OR_UPDATE"><field>record_id</field><id>2d8fe4080738a010b26bf2508c1ed04e</id><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-25 13:36:38</sys_created_on><sys_id>66cf60080738a010b26bf2508c1ed008</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-25 13:36:38</sys_updated_on><table>var__m_atf_input_variable_17a72288df60220062fe6c7a4df26397</table><value>{{step['ab0d2c840738a010b26bf2508c1ed026'].record_id}}</value></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>-628065296</payload_hash>
+        <record_name>Record Update</record_name>
+        <reverted_from/>
+        <source>6229c8cc07b4a010b26bf2508c1ed002</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:37:01</sys_created_on>
+        <sys_id>4cefa8080738a010b26bf2508c1ed0c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175ff9f24d30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:37:01</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>84efa808db38a0102080e84cc1654fc6</update_guid>
+        <update_guid_history>84efa808db38a0102080e84cc1654fc6:-628065296,66cf68089c38a01056edc0432d0618e3:1517891570</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 13:40:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>214858c9cb1448e0870ce75a82494900</sys_id>
+        <sys_metadata>2d8fe4080738a010b26bf2508c1ed04e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Update</sys_name>
+        <sys_package display_value="Yacht Club" source="x_295413_yachtclub">94499bab07a86010b26bf2508c1ed038</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Yacht Club">94499bab07a86010b26bf2508c1ed038</sys_scope>
+        <sys_scope_delete display_value="">30da5e27c993460f93ff8ac00b66dfa1</sys_scope_delete>
+        <sys_update_name>sys_atf_step_2d8fe4080738a010b26bf2508c1ed04e</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_2d8fe4080738a010b26bf2508c1ed04e">4cefa8080738a010b26bf2508c1ed0c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 13:40:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
