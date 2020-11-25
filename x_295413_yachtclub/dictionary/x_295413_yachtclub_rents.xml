@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Rents" max_length="40" name="x_295413_yachtclub_rents" sizeclass="1" type="collection">
+    <element label="Rents" max_length="40" name="x_295413_yachtclub_rents" type="collection">
         <element choice="3" default="not requested" label="Approval" max_length="40" name="approval" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Not yet requested" sequence="1" value="not requested"/>
@@ -11,6 +11,7 @@
         </element>
         <element attributes="encode_utf8=false" label="Member" max_length="32" name="member" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Rent Date" max_length="40" name="rent_date" type="glide_date"/>
         <element label="Yacht" max_length="32" name="yacht" reference="x_295413_yachtclub_yacht" type="reference"/>
         <index name="index">
