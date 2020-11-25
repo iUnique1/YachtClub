@@ -11,6 +11,7 @@
         </element>
         <element attributes="encode_utf8=false" label="Member" max_length="32" name="member" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Passengers expected" max_length="40" name="passengers_expected" type="integer"/>
         <element label="Price" max_length="20" name="price" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Rent Date" max_length="40" name="rent_date" type="glide_date"/>
         <element label="Yacht" max_length="32" name="yacht" reference="x_295413_yachtclub_yacht" type="reference"/>
